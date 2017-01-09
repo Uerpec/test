@@ -5,7 +5,6 @@ $filesList = fileScanner(__DIR__ , '/images/');
 
 ?>
 
-
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
